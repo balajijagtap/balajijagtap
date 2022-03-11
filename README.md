@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @balajijagtap
-- 👀 I’m interested in Java based projects
-- 🌱 I’m currently learning Java, spring framework
 - 💞️ I’m looking to collaborate on projects based on Java
 - 📫 Please reach me on my email: balajijagtap336@gmail.com
 
